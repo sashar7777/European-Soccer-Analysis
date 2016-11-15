@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<source>
+<sourcekeycolumn>id</sourcekeycolumn>
+<sourcexmlcolumn>goal</sourcexmlcolumn>
+<sourcefields>comment,stats,event_incident_typefk,elapsed,elapsed_plus,player2,subtype,player1,sortorder,team,id,n,type,goal_type</sourcefields>
+<targettable>goals</targettable>
+<targetfields>match_id,comment,stats,event_incident_typefk,elapsed,elapsed_plus,player2,subtype,player1,sortorder,team,id,n,type,goal_type</targetfields>
+</source>
